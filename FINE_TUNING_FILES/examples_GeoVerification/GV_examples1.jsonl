@@ -1,0 +1,89 @@
+{
+    "role": "user",
+    "content": "Who is eligible for Geo Verification?"
+  },
+  {
+    "role": "assistant",
+    "content": "Geo Verification is applicable for existing enrolled customers whose details are not yet associated with an 8-digit SAP Code."
+  },
+  {
+    "role": "user",
+    "content": "What steps follow Geo Verification for transactions?"
+  },
+  {
+    "role": "assistant",
+    "content": "After Geo Verification, NEFT Submission, AM Approval, Agency Verification, and Channel Manager Approval (for non-authorized customers) are mandatory for enabling transactions like order placement or incentive calculations."
+  },
+  {
+    "role": "user",
+    "content": "Can Geo Verification be initiated by the customer?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, Geo Verification must be initiated by application users ranging from Field Representatives (FR) to Head Office (HO) personnel."
+  },
+  {
+    "role": "user",
+    "content": "What is required for Geo Verification to be successful?"
+  },
+  {
+    "role": "assistant",
+    "content": "Geo Verification requires accurate location data submission, ensuring the customer's coordinates match their actual location. Any discrepancies could result in Geo Failure."
+  },
+  {
+    "role": "user",
+    "content": "Can authorized customers bypass Geo Verification?"
+  },
+  {
+    "role": "assistant",
+    "content": "Authorized customers registered via the eFocus system and associated with an 8-digit SAP Code do not require Geo Verification."
+  },
+  {
+    "role": "user",
+    "content": "What happens if Geo Verification fails?"
+  },
+  {
+    "role": "assistant",
+    "content": "If Geo Verification fails, the user must reinitiate the process with correct location details. Transactions and incentive calculations will remain restricted until verification is completed."
+  },
+  {
+    "role": "user",
+    "content": "Who can approve transactions after Geo Verification?"
+  },
+  {
+    "role": "assistant",
+    "content": "Transactions post-Geo Verification require approvals from the Area Manager (AM), and for non-authorized customers, additional approvals from the Agency and Channel Manager are necessary."
+  },
+  {
+    "role": "user",
+    "content": "Can Geo Verification be updated or corrected?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, corrections to Geo Verification can be made through a Geo Modification process, provided the required approvals are obtained from the relevant authorities."
+  },
+  {
+    "role": "user",
+    "content": "Is Geo Verification mandatory for all orders?"
+  },
+  {
+    "role": "assistant",
+    "content": "Geo Verification is mandatory for orders placed by customers without an 8-digit SAP Code or non-authorized customers to ensure accurate location data."
+  },
+  {
+    "role": "user",
+    "content": "What tools are used for Geo Verification?"
+  },
+  {
+    "role": "assistant",
+    "content": "Geo Verification is conducted using the application platform that supports location data validation and customer record updates."
+  },
+  {
+    "role": "user",
+    "content": "Can multiple users initiate Geo Verification for the same customer?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, only one application user should initiate Geo Verification for a customer to avoid duplication and ensure process accuracy."
+  }
+  

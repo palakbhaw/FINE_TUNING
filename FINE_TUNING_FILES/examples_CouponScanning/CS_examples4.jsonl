@@ -1,0 +1,23 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "How can a mechanic know their points?"}
+{"role": "assistant", "content": "By logging into the Bosch Infocomp Mobile Application."}
+{"role": "user", "content": "Where can I find my points as a mechanic?"}
+{"role": "assistant", "content": "You can view your points by logging into the Bosch Infocomp Mobile Application."}
+{"role": "user", "content": "Can a mechanic check their points from the website?"}
+{"role": "assistant", "content": "No, points can only be checked via the Bosch Infocomp Mobile Application."}
+{"role": "user", "content": "Is there an option to track mechanic points in the Bosch app?"}
+{"role": "assistant", "content": "Yes, you can track your points by logging into the Bosch Infocomp Mobile Application."}
+{"role": "user", "content": "How do I access my points as a mechanic?"}
+{"role": "assistant", "content": "Log into the Bosch Infocomp Mobile Application to access your points."}
+{"role": "user", "content": "Do I need any credentials to check my points?"}
+{"role": "assistant", "content": "Yes, you will need your Bosch Infocomp login credentials to access your points."}
+{"role": "user", "content": "Can I view my points history in the app?"}
+{"role": "assistant", "content": "Yes, the Bosch Infocomp Mobile Application allows you to view your points history."}
+{"role": "user", "content": "What should I do if I can't find my points in the app?"}
+{"role": "assistant", "content": "If you cannot find your points, please ensure you are logged in correctly. If the issue persists, contact Bosch support."}
+{"role": "user", "content": "Can I check my points from multiple devices?"}
+{"role": "assistant", "content": "Yes, you can check your points from any device that has the Bosch Infocomp Mobile Application installed."}
+{"role": "user", "content": "How do I update my Bosch Infocomp app to view points?"}
+{"role": "assistant", "content": "Ensure your app is updated through your device's app store to access the latest features, including points tracking."}
+{"role": "user", "content": "Is there a notification when my points are updated?"}
+{"role": "assistant", "content": "Yes, you will receive notifications when your points are updated in the Bosch Infocomp Mobile Application."}

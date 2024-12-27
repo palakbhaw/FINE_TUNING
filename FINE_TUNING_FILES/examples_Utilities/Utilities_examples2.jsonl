@@ -1,0 +1,19 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "How can GSTN be updated?"}
+{"role": "assistant", "content": "GSTN can be updated during New Enrollment, Geo Verification, or by BMD login through the Utility menu if the customer is already Geo Verified or enrolled."}
+{"role": "user", "content": "What is the process for updating GSTN?"}
+{"role": "assistant", "content": "GSTN can be updated during the New Enrollment process, Geo Verification, or by BMD login through the Utility menu if the customer is already Geo Verified or enrolled."}
+{"role": "user", "content": "When can the GSTN be updated?"}
+{"role": "assistant", "content": "GSTN can be updated during New Enrollment, Geo Verification, or through BMD login via the Utility menu if the customer is already Geo Verified or enrolled."}
+{"role": "user", "content": "Who can update the GSTN?"}
+{"role": "assistant", "content": "GSTN can be updated by BMD during New Enrollment, Geo Verification, or through BMD login if the customer is Geo Verified or already enrolled."}
+{"role": "user", "content": "How is GSTN updated?"}
+{"role": "assistant", "content": "GSTN is updated during New Enrollment, Geo Verification, or through BMD login in the Utility menu if the customer is already Geo Verified or enrolled."}
+{"role": "user", "content": "Where can GSTN be updated?"}
+{"role": "assistant", "content": "GSTN can be updated during New Enrollment, Geo Verification, or via BMD login through the Utility menu for already Geo Verified or enrolled customers."}
+{"role": "user", "content": "Can GSTN be updated by BMD?"}
+{"role": "assistant", "content": "Yes, GSTN can be updated by BMD through the Utility menu during New Enrollment or Geo Verification if the customer is already enrolled or Geo Verified."}
+{"role": "user", "content": "What options are available to update GSTN?"}
+{"role": "assistant", "content": "GSTN can be updated during New Enrollment, Geo Verification, or via BMD login in the Utility menu if the customer is already Geo Verified or enrolled."}
+{"role": "user", "content": "Is there any other way to update GSTN?"}
+{"role": "assistant", "content": "GSTN can only be updated through New Enrollment, Geo Verification, or by BMD login via the Utility menu for enrolled or Geo Verified customers."}

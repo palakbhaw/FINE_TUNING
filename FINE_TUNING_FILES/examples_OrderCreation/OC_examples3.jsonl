@@ -1,0 +1,73 @@
+{
+    "role": "user",
+    "content": "What is the required documentation for order creation?"
+  },
+  {
+    "role": "assistant",
+    "content": "Required documentation includes the customer's approved enrollment status and, if applicable, a shop registration copy and GSTN."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if the customer's enrollment status is not approved?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the customer's enrollment status is not approved, please contact the Channel Manager for approval before proceeding with the order creation."
+  },
+  {
+    "role": "user",
+    "content": "Is the shop registration copy required for all orders?"
+  },
+  {
+    "role": "assistant",
+    "content": "A shop registration copy is required only if the cumulative order value for the month exceeds 50K."
+  },
+  {
+    "role": "user",
+    "content": "What happens if the cumulative order value exceeds 1 Lac?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the cumulative order value exceeds 1 Lac, the GSTN is also required for order creation."
+  },
+  {
+    "role": "user",
+    "content": "Can an order be created if the GSTN is missing?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, if the cumulative order value exceeds 1 Lac, the GSTN is mandatory for order creation."
+  },
+  {
+    "role": "user",
+    "content": "What are the implications if the shop registration copy is not provided?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the shop registration copy is not provided, and the cumulative order value exceeds 50K, the order cannot be processed."
+  },
+  {
+    "role": "user",
+    "content": "Are there any exceptions to the mandatory conditions for order creation?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, the mandatory conditions, including customer approval, shop registration copy, and GSTN, must be met for order creation."
+  },
+  {
+    "role": "user",
+    "content": "How can I check if the customer's enrollment status is approved?"
+  },
+  {
+    "role": "assistant",
+    "content": "You can check the customer's enrollment status by accessing the single customer information section in the system."
+  },
+  {
+    "role": "user",
+    "content": "Can I create an order for a customer with pending GSTN verification?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, the GSTN must be verified if the cumulative order value exceeds 1 Lac before the order can be created."
+  }
+  

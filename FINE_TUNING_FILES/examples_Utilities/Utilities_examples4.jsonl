@@ -1,0 +1,19 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "If GSTN is already updated, is the Shop Registration Copy still required?"}
+{"role": "assistant", "content": "No, if GSTN is already updated, the Shop Registration Copy is not required."}
+{"role": "user", "content": "Do I still need the Shop Registration Copy after updating GSTN?"}
+{"role": "assistant", "content": "No, the Shop Registration Copy is not required if GSTN is already updated."}
+{"role": "user", "content": "Is the Shop Registration Copy necessary if the GSTN is updated?"}
+{"role": "assistant", "content": "If GSTN is updated, the Shop Registration Copy is not necessary."}
+{"role": "user", "content": "Once GSTN is updated, do I still need to provide the Shop Registration Copy?"}
+{"role": "assistant", "content": "Once the GSTN is updated, you do not need to provide the Shop Registration Copy."}
+{"role": "user", "content": "Is the Shop Registration Copy required even after updating the GSTN?"}
+{"role": "assistant", "content": "No, once the GSTN is updated, the Shop Registration Copy is not required."}
+{"role": "user", "content": "Should I submit the Shop Registration Copy after updating the GSTN?"}
+{"role": "assistant", "content": "After updating the GSTN, submitting the Shop Registration Copy is not necessary."}
+{"role": "user", "content": "If the GSTN is updated, is the Shop Registration Copy still needed?"}
+{"role": "assistant", "content": "The Shop Registration Copy is not needed if the GSTN is already updated."}
+{"role": "user", "content": "After GSTN update, do I still need to submit the Shop Registration Copy?"}
+{"role": "assistant", "content": "After the GSTN update, submitting the Shop Registration Copy is not required."}
+{"role": "user", "content": "Is it mandatory to submit the Shop Registration Copy after GSTN is updated?"}
+{"role": "assistant", "content": "It is not mandatory to submit the Shop Registration Copy if GSTN is already updated."}

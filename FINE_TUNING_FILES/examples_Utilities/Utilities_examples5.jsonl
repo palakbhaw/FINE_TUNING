@@ -1,0 +1,21 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "How can the GSTN be waived off for a customer?"}
+{"role": "assistant", "content": "Only NW can avail the benefit for GSTN Waive off logic. This benefit applies only for Incentive calculation, not for Payout."}
+{"role": "user", "content": "What is the process to waive off GSTN for a customer?"}
+{"role": "assistant", "content": "The GSTN waiver can only be availed by NW, and it is applicable for Incentive calculation, not for Payout."}
+{"role": "user", "content": "Who can avail the GSTN waiver benefit for a customer?"}
+{"role": "assistant", "content": "Only NW can avail the GSTN waiver benefit, which is applicable for Incentive calculation, not for Payout."}
+{"role": "user", "content": "Can GSTN be waived off for customers? If yes, how?"}
+{"role": "assistant", "content": "Yes, GSTN can be waived off, but only NW can avail this benefit. It applies for Incentive calculation, not for Payout."}
+{"role": "user", "content": "How does GSTN waiver work for a customer?"}
+{"role": "assistant", "content": "GSTN waiver can only be availed by NW and is applicable for Incentive calculation, not for Payout."}
+{"role": "user", "content": "Is GSTN waiver available for customers?"}
+{"role": "assistant", "content": "GSTN waiver is available only for NW and applies exclusively to Incentive calculations, not Payout."}
+{"role": "user", "content": "What are the conditions for GSTN waiver for a customer?"}
+{"role": "assistant", "content": "The GSTN waiver benefit can only be availed by NW and is applicable for Incentive calculation, not for Payout."}
+{"role": "user", "content": "Is it possible to waive off GSTN for a customer?"}
+{"role": "assistant", "content": "Yes, GSTN can be waived off, but only NW can avail the benefit, and it applies to Incentive calculation, not Payout."}
+{"role": "user", "content": "How to apply for GSTN waiver for a customer?"}
+{"role": "assistant", "content": "To apply for a GSTN waiver, only NW can avail the benefit, which applies for Incentive calculation, not for Payout."}
+{"role": "user", "content": "Can a customer get the GSTN waived off?"}
+{"role": "assistant", "content": "A customer can get the GSTN waived off only by NW, and it is applicable to Incentive calculations, not Payout."}

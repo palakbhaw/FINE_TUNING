@@ -1,0 +1,19 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "How can we change the customer name or shop name?"}
+{"role": "assistant", "content": "To change the customer name or shop name, BMD/FR/BP/AM must send an email to Techsupport@pearlcomp.com, along with Zonal Manager approval."}
+{"role": "user", "content": "How do we update the customer name or shop name?"}
+{"role": "assistant", "content": "To update the customer name or shop name, send an email to Techsupport@pearlcomp.com with Zonal Manager approval from BMD/FR/BP/AM."}
+{"role": "user", "content": "Who can request a customer or shop name change?"}
+{"role": "assistant", "content": "BMD/FR/BP/AM can request the customer or shop name change by emailing Techsupport@pearlcomp.com with Zonal Manager approval."}
+{"role": "user", "content": "How can we modify the customer or shop name?"}
+{"role": "assistant", "content": "To modify the customer or shop name, BMD/FR/BP/AM must email Techsupport@pearlcomp.com with approval from the Zonal Manager."}
+{"role": "user", "content": "What is the process to change the customer or shop name?"}
+{"role": "assistant", "content": "The process involves BMD/FR/BP/AM sending an email to Techsupport@pearlcomp.com, including approval from the Zonal Manager."}
+{"role": "user", "content": "Is there a way to change the customer name or shop name?"}
+{"role": "assistant", "content": "Yes, BMD/FR/BP/AM can change the customer name or shop name by emailing Techsupport@pearlcomp.com with Zonal Manager approval."}
+{"role": "user", "content": "Who do we contact to change the customer or shop name?"}
+{"role": "assistant", "content": "To change the customer or shop name, contact Techsupport@pearlcomp.com, with approval from the Zonal Manager by BMD/FR/BP/AM."}
+{"role": "user", "content": "How can we get the customer name or shop name updated?"}
+{"role": "assistant", "content": "To update the customer name or shop name, BMD/FR/BP/AM should send an email to Techsupport@pearlcomp.com along with Zonal Manager approval."}
+{"role": "user", "content": "Can we change the customer name or shop name?"}
+{"role": "assistant", "content": "Yes, the customer or shop name can be changed by emailing Techsupport@pearlcomp.com with Zonal Manager approval from BMD/FR/BP/AM."}

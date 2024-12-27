@@ -1,0 +1,23 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "What is the Logic of Special Customers?"}
+{"role": "assistant", "content": "Customer should be approved by Head Office for Special customer consideration."}
+{"role": "user", "content": "Who approves the Special Customer status?"}
+{"role": "assistant", "content": "The Head Office is responsible for approving Special Customer status."}
+{"role": "user", "content": "Can a retailer be considered a Special Customer?"}
+{"role": "assistant", "content": "Yes, a retailer can be considered a Special Customer if they meet the criteria and are approved by the Head Office."}
+{"role": "user", "content": "Is there a specific process for becoming a Special Customer?"}
+{"role": "assistant", "content": "Yes, the customer needs to submit a request to the Head Office, which will review the eligibility based on certain criteria."}
+{"role": "user", "content": "What is the benefit of being a Special Customer?"}
+{"role": "assistant", "content": "Special Customers may receive exclusive offers, priority support, and additional benefits that are not available to regular customers."}
+{"role": "user", "content": "Do Special Customers have different payment terms?"}
+{"role": "assistant", "content": "Yes, Special Customers may have customized payment terms based on their agreement with the Head Office."}
+{"role": "user", "content": "How long does it take for a customer to be approved as a Special Customer?"}
+{"role": "assistant", "content": "The approval process can vary, but it typically takes a few weeks after submission, depending on the complexity of the request."}
+{"role": "user", "content": "Are there any minimum requirements to qualify as a Special Customer?"}
+{"role": "assistant", "content": "Yes, there may be specific business requirements such as sales volume or long-term relationship criteria that need to be met."}
+{"role": "user", "content": "Can a customer be declassified from Special Customer status?"}
+{"role": "assistant", "content": "Yes, a customer may be declassified from Special Customer status if they no longer meet the eligibility criteria or fail to maintain required standards."}
+{"role": "user", "content": "Is there a fee to apply for Special Customer status?"}
+{"role": "assistant", "content": "There is no fee to apply for Special Customer status, but the customer must meet the eligibility criteria set by the Head Office."}
+{"role": "user", "content": "Can a Special Customer receive priority support?"}
+{"role": "assistant", "content": "Yes, Special Customers are eligible for priority support as part of the benefits associated with their status."}

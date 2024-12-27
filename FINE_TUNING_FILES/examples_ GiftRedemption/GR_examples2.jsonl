@@ -1,0 +1,19 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "What is the eligibility for Gift Redemption?"}
+{"role": "assistant", "content": "Mechanic should have a minimum of 800+ balance points in their account to request redemption."}
+{"role": "user", "content": "How many points are required for Gift Redemption?"}
+{"role": "assistant", "content": "A minimum of 800+ balance points are required for Gift Redemption."}
+{"role": "user", "content": "Can a mechanic redeem gifts without enough points?"}
+{"role": "assistant", "content": "No, a mechanic must have at least 800 balance points in their account to be eligible for Gift Redemption."}
+{"role": "user", "content": "What is the minimum point balance required for Gift Redemption?"}
+{"role": "assistant", "content": "The minimum point balance required for Gift Redemption is 800+ points."}
+{"role": "user", "content": "Can a mechanic with less than 800 points redeem gifts?"}
+{"role": "assistant", "content": "No, a mechanic needs to have at least 800 points in their account to redeem gifts."}
+{"role": "user", "content": "Is there any point threshold for Gift Redemption?"}
+{"role": "assistant", "content": "Yes, the mechanic needs a minimum of 800+ points in their account to redeem gifts."}
+{"role": "user", "content": "What happens if a mechanic does not have 800 points?"}
+{"role": "assistant", "content": "If a mechanic does not have 800+ points, they are not eligible for Gift Redemption."}
+{"role": "user", "content": "How can a mechanic check their points for Gift Redemption?"}
+{"role": "assistant", "content": "A mechanic can check their points by logging into the Bosch Infocomp Mobile Application."}
+{"role": "user", "content": "Are points required for all Gift Redemptions?"}
+{"role": "assistant", "content": "Yes, points are required for Gift Redemption, with a minimum of 800+ points."}

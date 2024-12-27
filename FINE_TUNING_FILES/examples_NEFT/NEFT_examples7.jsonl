@@ -1,0 +1,57 @@
+{
+    "role": "user",
+    "content": "What is the process after NEFT is rejected?"
+  },
+  {
+    "role": "assistant",
+    "content": "After NEFT is rejected, the BMD and Area Manager receive an email detailing the rejection reason. The necessary corrections can then be made, and the NEFT details can be resubmitted."
+  },
+  {
+    "role": "user",
+    "content": "Who can resubmit the NEFT details after rejection?"
+  },
+  {
+    "role": "assistant",
+    "content": "The BMD and Area Manager can initiate the resubmission of NEFT details after making the required corrections."
+  },
+  {
+    "role": "user",
+    "content": "Can I get a detailed explanation of why the NEFT was rejected?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, the email sent to the BMD and Area Manager contains the specific reason for NEFT rejection, providing clarity on what needs to be corrected."
+  },
+  {
+    "role": "user",
+    "content": "What should be done if I don't receive a rejection email?"
+  },
+  {
+    "role": "assistant",
+    "content": "If you don't receive a rejection email, please check your spam folder or confirm that the NEFT submission was processed. You may also contact support for assistance."
+  },
+  {
+    "role": "user",
+    "content": "Is there any timeframe for receiving the rejection email?"
+  },
+  {
+    "role": "assistant",
+    "content": "The rejection email is typically sent immediately after the Agency rejects the NEFT submission. If you haven't received it within a few hours, kindly check with your support team."
+  },
+  {
+    "role": "user",
+    "content": "Can I appeal if the NEFT is rejected?"
+  },
+  {
+    "role": "assistant",
+    "content": "Currently, there is no formal appeal process for NEFT rejections. However, you can make the necessary corrections and resubmit the NEFT details."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if the NEFT rejection reason is unclear?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the rejection reason is unclear, please reach out to your support team or Area Manager for further clarification on the issue."
+  }
+  

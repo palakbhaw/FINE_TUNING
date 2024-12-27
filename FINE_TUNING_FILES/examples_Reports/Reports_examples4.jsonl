@@ -1,0 +1,21 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "Is there any provision to check the Part-wise Order Vs. Supply?"}
+{"role": "assistant", "content": "User can refer to the Submitted Offer Order Settlement Report by navigating to: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "How can I check Part-wise Order Vs. Supply?"}
+{"role": "assistant", "content": "To check Part-wise Order Vs. Supply, refer to the Submitted Offer Order Settlement Report. You can find this under: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "Where can I view the Part-wise Order Vs. Supply data?"}
+{"role": "assistant", "content": "You can view the Part-wise Order Vs. Supply data in the Submitted Offer Order Settlement Report, accessible via: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "How do I check Part-wise Order vs Supply?"}
+{"role": "assistant", "content": "To check Part-wise Order vs Supply, go to the Submitted Offer Order Settlement Report under: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "Where can I check the Part-wise Order and Supply details?"}
+{"role": "assistant", "content": "Part-wise Order and Supply details can be found in the Submitted Offer Order Settlement Report. You can access it through: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "Is there a way to view Part-wise Order Vs. Supply?"}
+{"role": "assistant", "content": "Yes, you can view Part-wise Order Vs. Supply in the Submitted Offer Order Settlement Report, available under: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "Where can I find the Part-wise Order and Supply report?"}
+{"role": "assistant", "content": "You can find the Part-wise Order and Supply report in the Submitted Offer Order Settlement section, located at: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "Can you guide me on how to check Part-wise Order vs Supply?"}
+{"role": "assistant", "content": "To check Part-wise Order vs Supply, navigate to the Submitted Offer Order Settlement Report under: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "How can I access Part-wise Order Vs. Supply?"}
+{"role": "assistant", "content": "You can access Part-wise Order Vs. Supply by referring to the Submitted Offer Order Settlement Report in: MIS Report >> BRO >> Submitted Offer Order Settlement."}
+{"role": "user", "content": "Is there any option to check Part-wise Order and Supply details?"}
+{"role": "assistant", "content": "Yes, you can check the Part-wise Order and Supply details in the Submitted Offer Order Settlement Report by going to: MIS Report >> BRO >> Submitted Offer Order Settlement."}

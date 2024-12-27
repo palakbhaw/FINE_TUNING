@@ -1,0 +1,57 @@
+{
+    "role": "user",
+    "content": "What should I do if my NEFT submission is rejected?"
+  },
+  {
+    "role": "assistant",
+    "content": "If your NEFT submission is rejected, ensure that all required documents are attached clearly, and that the Consent Form is correctly filled out with the necessary details. Correct any data entry errors and resubmit the details."
+  },
+  {
+    "role": "user",
+    "content": "How can I avoid NEFT rejection in the future?"
+  },
+  {
+    "role": "assistant",
+    "content": "To avoid NEFT rejection, ensure that all documents are clear and properly attached, the Consent Form is filled correctly, and all required details such as UID, mobile number, seal, and signature are provided."
+  },
+  {
+    "role": "user",
+    "content": "What documents are required for NEFT submission?"
+  },
+  {
+    "role": "assistant",
+    "content": "For NEFT submission, you need to provide a Cancel Cheque and a Consent Form with Seal or Sign. If the name is not imprinted on the Cancel Cheque, a Passbook copy is required for beneficiary verification."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if the Consent Form is not properly filled?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the Consent Form is not properly filled, please update it with the missing information, such as UID, mobile number, seal, or signature. Once corrected, resubmit the form along with the required documents."
+  },
+  {
+    "role": "user",
+    "content": "Can I resubmit NEFT details after rejection?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, you can resubmit the NEFT details after making the necessary corrections, such as attaching the correct documents or fixing any data entry errors."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if the Cancel Cheque is not visible?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the Cancel Cheque is not clearly visible, please provide a clearer image of the cheque. Ensure that all necessary details are legible for verification purposes."
+  },
+  {
+    "role": "user",
+    "content": "Can I submit NEFT details without a Passbook copy?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the name is not imprinted on the Cancel Cheque, a Passbook copy is required. Otherwise, NEFT details cannot be processed without this verification."
+  }
+  

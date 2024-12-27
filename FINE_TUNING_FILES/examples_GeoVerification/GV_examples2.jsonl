@@ -1,0 +1,81 @@
+{
+    "role": "user",
+    "content": "Who can initiate a Geo Modification request?"
+  },
+  {
+    "role": "assistant",
+    "content": "A Geo Modification request can be initiated by a Field Representative (FR) or a Business Partner (BP) during a Mark Visit or Order Submission if the cumulative order value exceeds 20,000."
+  },
+  {
+    "role": "user",
+    "content": "What approvals are needed for Geo Modification?"
+  },
+  {
+    "role": "assistant",
+    "content": "The Area Manager (AM) must approve the Geo Modification request if no incentives have been paid for the customer. Additional approvals from the Zone Manager (ZM) or Head Office (HO) may be required if incentives are already paid."
+  },
+  {
+    "role": "user",
+    "content": "What happens if the incentive is already paid for the customer?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the incentive is already paid, BP/AM/ZM must perform a Mark Visit from the Failure Location and submit the updated location to techsupport@pearlcomp.com along with HO approval. The Technical Support team will handle the backend updates."
+  },
+  {
+    "role": "user",
+    "content": "What is the role of the Technical Support team in Geo Modification?"
+  },
+  {
+    "role": "assistant",
+    "content": "The Technical Support team updates the Geo Modification details in the backend after receiving the necessary approvals and the updated location from BP/AM/ZM."
+  },
+  {
+    "role": "user",
+    "content": "Is Geo Modification mandatory for every failed location?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, Geo Modification is mandatory for failed locations if the location discrepancy impacts incentives or order submission processes."
+  },
+  {
+    "role": "user",
+    "content": "Can Geo Modification be requested for any order value?"
+  },
+  {
+    "role": "assistant",
+    "content": "Geo Modification can only be requested for orders where the cumulative value exceeds 20,000."
+  },
+  {
+    "role": "user",
+    "content": "What is the process if a Mark Visit cannot be performed from the Failure Location?"
+  },
+  {
+    "role": "assistant",
+    "content": "If a Mark Visit cannot be performed from the Failure Location, the BP/AM/ZM must contact techsupport@pearlcomp.com with the necessary details and approvals for alternative resolution."
+  },
+  {
+    "role": "user",
+    "content": "Who is responsible for sharing the updated location during Geo Modification?"
+  },
+  {
+    "role": "assistant",
+    "content": "The BP/AM/ZM is responsible for sharing the updated location with the Technical Support team along with necessary approvals for Geo Modification."
+  },
+  {
+    "role": "user",
+    "content": "What happens if a Geo Modification request is not approved?"
+  },
+  {
+    "role": "assistant",
+    "content": "If a Geo Modification request is not approved, the customer location remains unchanged, and related transactions, such as orders or incentive calculations, may face restrictions."
+  },
+  {
+    "role": "user",
+    "content": "Can the customer request a Geo Modification directly?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, customers cannot directly request Geo Modifications. The request must be initiated and approved by authorized personnel such as FR, BP, or AM."
+  }
+  

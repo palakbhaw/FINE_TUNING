@@ -1,0 +1,57 @@
+{
+    "role": "user",
+    "content": "What happens if the NEFT details are rejected?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the NEFT details are rejected, you will need to correct the information and resubmit the details. Ensure that all required documents are provided and that the account number is correctly entered."
+  },
+  {
+    "role": "user",
+    "content": "How can I verify the NEFT submission status?"
+  },
+  {
+    "role": "assistant",
+    "content": "You can verify the NEFT submission status through the NEFT submission section of the portal or by contacting the technical support team for confirmation."
+  },
+  {
+    "role": "user",
+    "content": "Can I resubmit NEFT details if they were rejected?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, you can resubmit the NEFT details after correcting any errors or providing the missing information. Ensure all required documents are submitted along with the correct account number."
+  },
+  {
+    "role": "user",
+    "content": "Is there a deadline for submitting NEFT details?"
+  },
+  {
+    "role": "assistant",
+    "content": "There is no strict deadline for submitting NEFT details, but it is recommended to submit them as soon as possible to avoid delays in processing payouts."
+  },
+  {
+    "role": "user",
+    "content": "Can I update the NEFT details after the submission is successful?"
+  },
+  {
+    "role": "assistant",
+    "content": "Once the NEFT details have been successfully submitted and processed, they cannot be updated. You must ensure the details are correct before submission."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if the NEFT status shows 'Pending'?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the NEFT status shows 'Pending', it may be due to a delay in verification or processing. You can contact the support team for further assistance or check the status periodically."
+  },
+  {
+    "role": "user",
+    "content": "Are there any specific account requirements for NEFT submission?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, the account for NEFT submission must be a valid bank account with correct details, including the account number, IFSC code, and beneficiary name. Ensure that the account information matches the details provided."
+  }
+  

@@ -1,0 +1,82 @@
+{
+    "role": "user",
+    "content": "How can I check if a customer is eligible for an order?"
+  },
+  {
+    "role": "assistant",
+    "content": "You can check a customer's eligibility for an order by accessing the single customer information section in the system. This will show their enrollment status."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if the customer is not eligible?"
+  },
+  {
+    "role": "assistant",
+    "content": "If the customer is not eligible, please consult with the Channel Manager for further guidance and potential approval."
+  },
+  {
+    "role": "user",
+    "content": "Is there a way to appeal a customer's eligibility status?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, you can appeal a customer's eligibility status by submitting a request to the Channel Manager for review."
+  },
+  {
+    "role": "user",
+    "content": "What information is required to determine customer eligibility?"
+  },
+  {
+    "role": "assistant",
+    "content": "To determine customer eligibility, you typically need to provide customer identification, enrollment status, and any relevant documentation."
+  },
+  {
+    "role": "user",
+    "content": "How often should customer eligibility be reviewed?"
+  },
+  {
+    "role": "assistant",
+    "content": "Customer eligibility should be reviewed regularly, ideally at least once every quarter, or whenever there are significant changes in their status."
+  },
+  {
+    "role": "user",
+    "content": "What happens if I submit an order for an ineligible customer?"
+  },
+  {
+    "role": "assistant",
+    "content": "If you submit an order for an ineligible customer, the order will likely be rejected, and you will receive a notification regarding the rejection."
+  },
+  {
+    "role": "user",
+    "content": "Can I override a customer's eligibility status?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, customer eligibility statuses cannot be overridden without proper approval from the Channel Manager or authorized personnel."
+  },
+  {
+    "role": "user",
+    "content": "What should I do if I believe a customer was incorrectly marked as ineligible?"
+  },
+  {
+    "role": "assistant",
+    "content": "If you believe a customer was incorrectly marked as ineligible, please gather relevant information and escalate the issue to the Channel Manager for reassessment."
+  },
+  {
+    "role": "user",
+    "content": "Who has the final authority on customer eligibility?"
+  },
+  {
+    "role": "assistant",
+    "content": "The final authority on customer eligibility typically lies with the Channel Manager or designated senior management."
+  },
+  {
+    "role": "user",
+    "content": "What is the typical turnaround time for resolving eligibility issues?"
+  },
+  {
+    "role": "assistant",
+    "content": "The typical turnaround time for resolving eligibility issues is usually within 3 to 5 business days, depending on the complexity of the case."
+  }
+
+  

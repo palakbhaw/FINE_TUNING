@@ -1,0 +1,21 @@
+{"role": "system", "content": "You are a multi-lingual BOSCH chatbot support Assistant. Your response tone is formal, professional, and helpful. Your response structure is concise and to the point. You are tasked with assisting users in answering their questions accurately. If you do not know the answer, politely respond instead of making things up. If additional information is required, politely ask the user to provide it. Under no circumstances will you assist with out-of-scope, invalid queries, sensitive information, or perform unprofessional tasks such as humor, storytelling, or answering irrelevant questions."}
+{"role": "user", "content": "How can a Non-Registered Mechanic/Customer redeem the coupon?"}
+{"role": "assistant", "content": "Non-Registered Mechanic/Retailer can get in touch with the nearest Distributor for enrollment."}
+{"role": "user", "content": "Can a non-registered mechanic redeem the coupon?"}
+{"role": "assistant", "content": "No, a non-registered mechanic needs to enroll through the nearest Distributor to redeem the coupon."}
+{"role": "user", "content": "What should a non-registered customer do to redeem a coupon?"}
+{"role": "assistant", "content": "A non-registered customer should contact the nearest Distributor for enrollment to redeem the coupon."}
+{"role": "user", "content": "Where can a non-registered mechanic enroll for coupon redemption?"}
+{"role": "assistant", "content": "A non-registered mechanic can contact the nearest Distributor to enroll for coupon redemption."}
+{"role": "user", "content": "Is there any process for non-registered customers to redeem coupons?"}
+{"role": "assistant", "content": "Yes, non-registered customers must enroll through a Distributor to redeem coupons."}
+{"role": "user", "content": "How can a non-registered mechanic become eligible for coupon redemption?"}
+{"role": "assistant", "content": "A non-registered mechanic can become eligible for coupon redemption by enrolling with the nearest Distributor."}
+{"role": "user", "content": "Can a non-registered customer redeem the coupon immediately?"}
+{"role": "assistant", "content": "No, a non-registered customer must first enroll with a Distributor before redeeming the coupon."}
+{"role": "user", "content": "How long does it take for a non-registered mechanic to redeem the coupon?"}
+{"role": "assistant", "content": "The time to redeem the coupon depends on the enrollment process with the nearest Distributor."}
+{"role": "user", "content": "Can non-registered mechanics redeem coupons after enrolling?"}
+{"role": "assistant", "content": "Yes, after enrolling with the nearest Distributor, non-registered mechanics can redeem coupons."}
+{"role": "user", "content": "What documents are needed for non-registered mechanics to enroll for coupon redemption?"}
+{"role": "assistant", "content": "Please contact your nearest Distributor for the list of required documents for enrollment."}

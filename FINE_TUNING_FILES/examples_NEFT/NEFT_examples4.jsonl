@@ -1,0 +1,65 @@
+{
+    "role": "user",
+    "content": "What should I do if my account details are already in the system?"
+  },
+  {
+    "role": "assistant",
+    "content": "If your account details are already in the system, you will need to get approval from the Channel Manager to update the details with a new mobile number."
+  },
+  {
+    "role": "user",
+    "content": "How long does it take for Channel Manager approval?"
+  },
+  {
+    "role": "assistant",
+    "content": "Channel Manager approval usually takes 1-2 business days, depending on the workload and urgency."
+  },
+  {
+    "role": "user",
+    "content": "Can I submit the NEFT details again after approval?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, once the approval is granted, you can resubmit the NEFT details with the updated account information."
+  },
+  {
+    "role": "user",
+    "content": "I submitted the correct account details, but I'm still getting the same error message. What could be wrong?"
+  },
+  {
+    "role": "assistant",
+    "content": "If you're still getting the error after submitting the correct details, it's possible the system hasn't been updated yet. Please check with your Channel Manager or technical support to ensure the details are reflected correctly."
+  },
+  {
+    "role": "user",
+    "content": "Where can I find the Channel Manager's contact details?"
+  },
+  {
+    "role": "assistant",
+    "content": "You can contact the Channel Manager through the internal communication platform or reach out to your team leader for assistance in getting the contact details."
+  },
+  {
+    "role": "user",
+    "content": "How do I know if my NEFT details have been successfully updated?"
+  },
+  {
+    "role": "assistant",
+    "content": "Once your NEFT details are successfully updated, you will receive a confirmation notification. You can also check the status in the NEFT submission section of the portal."
+  },
+  {
+    "role": "user",
+    "content": "Can I update NEFT details after the payout has been processed?"
+  },
+  {
+    "role": "assistant",
+    "content": "Once the payout has been processed, NEFT details cannot be updated. You will need to submit the correct details before the payout is processed."
+  },
+  {
+    "role": "user",
+    "content": "Is there any way to expedite the approval process?"
+  },
+  {
+    "role": "assistant",
+    "content": "To expedite the approval process, you can reach out to your Channel Manager and request priority processing, but approval times may vary depending on the specific circumstances."
+  }
+  
